@@ -2,7 +2,7 @@
 
 I'm [Yuri](https://linktr.ee/ylante), a freshman Computer Science student at UGA, Athens, Georgia.
 
-My imagination is the limit
+I'm only limited by my imagination
 
 If an idea pops into my head, chances are I'll build it and ship it.
 
