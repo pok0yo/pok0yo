@@ -1,5 +1,21 @@
 ## Hi there 👋
 
+I'm [Yuri](https://linktr.ee/ylante), a freshman Computer Science student at UGA, Athens, Georgia.
+
+My imagination is the limit
+
+If an idea pops into my head, chances are I'll build it and ship it.
+
+My main tech stack is react, typescript, tailwind, and framer motion.
+
+I'm looking to upload some of my projects onto GitHub so stay tuned!
+
+### Fun Facts:
+- I have a dog
+- I drink 3 cups of chamomile tea everyday
+- Attack on Titan is my favorite anime
+- Hobbies: anime, gym, rocking climbing, chess, building things
+
 <!--
 **pok0yo/pok0yo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
