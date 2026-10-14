@@ -10,6 +10,8 @@ My main tech stack is react, typescript, tailwind, and framer motion.
 
 I'm looking to upload some of my projects onto GitHub so stay tuned!
 
+How to reach me: ylante1220@gmail.com
+
 ### Fun Facts:
 - I have a dog
 - I drink 3 cups of chamomile tea everyday
