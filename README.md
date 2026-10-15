@@ -10,6 +10,8 @@ My main tech stack is react, typescript, tailwind, and framer motion.
 
 I'm looking to upload some of my projects onto GitHub so stay tuned!
 
+Check out my koi pond portfolio, the fish are friendly! (https://pok0yo.github.io/koi-portfolio/koi-portfolio.html)
+
 How to reach me: ylante1220@gmail.com
 
 ### Fun Facts:
