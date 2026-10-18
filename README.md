@@ -1,21 +1,27 @@
 ## Hi there 👋
 
-I'm [Yuri](https://linktr.ee/ylante), a freshman Computer Science student at UGA, Athens, Georgia.
+I'm [Yuri](https://pok0yo.github.io/koi-portfolio/koi-portfolio.html), a freshman Computer Science student at UGA, Athens, Georgia.
 
 I'm only limited by my imagination.
 
-If an idea pops into my head, chances are I'll build it and ship it.
+If an idea pops into my head, chances are I'll build it and then ship it.
 
 My main tech stack is react, typescript, tailwind, and framer motion.
 
 I'm looking to upload some of my projects onto GitHub so stay tuned!
 
-Check out my koi pond portfolio, [🎏](https://pok0yo.github.io/koi-portfolio/koi-portfolio.html), the fish are friendly!
-
-How to reach me: ylante1220@gmail.com
+Lets connect!
+<div id="badges">
+  <a href="https://www.linkedin.com/in/yuri-ante-12b7a0432/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yuri-ante-12b7a0432/">
+    <img src="https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white" alt="LinkTree Badge"/>
+  </a>
+</div>
 
 ### Fun Facts:
-- I have a dog
+- I have 2 dogs
 - I drink 3 cups of chamomile tea everyday
 - Attack on Titan is my favorite anime
 - Hobbies: anime, gym, rocking climbing, chess, building things
