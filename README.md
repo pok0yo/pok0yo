@@ -15,7 +15,7 @@ Lets connect!
   <a href="https://www.linkedin.com/in/yuri-ante-12b7a0432/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/yuri-ante-12b7a0432/">
+  <a href="https://linktr.ee/ylante">
     <img src="https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white" alt="LinkTree Badge"/>
   </a>
 </div>
